@@ -1,0 +1,9 @@
+{
+  "name": "serverless-remove-resources",
+  "version": "1.0.0",
+  "description": "A Serverless Framework plugin for removing resources from your CloudFormation template before deployment.",
+  "main": "lib/index.js",
+  "keywords": [],
+  "author": "Eduardo Marcos",
+  "license": "MIT"
+}
