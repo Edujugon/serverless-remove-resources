@@ -3,7 +3,20 @@
   "version": "1.0.0",
   "description": "A Serverless Framework plugin for removing resources from your CloudFormation template before deployment.",
   "main": "lib/index.js",
-  "keywords": [],
-  "author": "Eduardo Marcos",
+  "keywords": [
+    "serverless",
+    "serverless framework",
+    "plugin",
+    "remove resources"
+  ],
+  "homepage": "https://github.com/Edujugon/serverless-remove-resources",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Edujugon/serverless-remove-resources"
+  },
+  "bugs": {
+    "url": "https://github.com/Edujugon/serverless-remove-resources/issues"
+  },
+  "author": "Eduardo Marcos <edujugon@gmail.com>",
   "license": "MIT"
 }
